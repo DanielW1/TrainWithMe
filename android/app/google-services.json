@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032936370046",
+    "firebase_url": "https://trainwithme-cc9d0.firebaseio.com",
+    "project_id": "trainwithme-cc9d0",
+    "storage_bucket": "trainwithme-cc9d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032936370046:android:e2ee8e5f465ce359258d2f",
+        "android_client_info": {
+          "package_name": "com.trainwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032936370046-c4hge7roj30te0mo6v3k9n140vog6d29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trainwithme",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1032936370046-bpn2u4crkc0pit9ettk02qr700fjcnpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCwLEyMiFbCWJLWOg3anxC9Jn0oX60E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032936370046-lvr0st4f6ca7lrg0pe8g6ene4qinsvgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
